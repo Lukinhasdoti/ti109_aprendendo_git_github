@@ -7,7 +7,12 @@ git init
 
 git status
 
+-- adicionar todes os arquivos 
+git add .
 
+-- adicionar comentario no meu arquivos ao conjunto de modificações realizadas
+git commit -a -m
 
+-- Criando mais um commit no projeto
 
 
