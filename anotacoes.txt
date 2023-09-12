@@ -1,0 +1,13 @@
+--iniciar reposit git
+
+git init 
+
+
+-- Verificar status do reposit ja criado 
+
+git status
+
+
+
+
+
